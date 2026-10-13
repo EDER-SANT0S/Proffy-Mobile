@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Proffy</string>
+    <string name="descricao_logo">Logotipo do Proffy</string>
+    <string name="titulo_login">Acesse sua conta</string>
+    <string name="subtitulo_login">Entre com seu e-mail e sua senha</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="aviso_demonstracao">Demonstração acadêmica de leitura dos campos.</string>
+    <string name="mensagem_dados_login">E-mail: %1$s\nSenha: %2$s</string>
 </resources>
